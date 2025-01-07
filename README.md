@@ -39,3 +39,6 @@ Administrators can monitor booking activity, track revenue, and generate reports
 ![Screenshot 2025-01-05 124551](https://github.com/user-attachments/assets/f19754e3-bc51-4331-8d41-bd61f6670c1d)
 
 ![Screenshot 2025-01-05 124433](https://github.com/user-attachments/assets/9e3ed472-f6a0-4016-9213-f5c52d9547ef)
+
+![Screenshot 2025-01-05 124438](https://github.com/user-attachments/assets/291bf50f-93bb-4860-85ca-61fe433811b7)
+
